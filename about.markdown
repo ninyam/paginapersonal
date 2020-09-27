@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bio
-permalink: /Bio/
+permalink: /bio/
 ---
 Soy candidata al Doctorado en Matemáticas en la Universidad de British Columbia. Mi director de tesis es [Ben Williams](http://www.math.ubc.ca/~tbjw/) y mi codirector de tesis es [Alejandro Ádem](http://www.math.ubc.ca/~adem/).
 
