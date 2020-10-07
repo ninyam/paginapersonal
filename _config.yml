@@ -31,7 +31,9 @@ url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://
 github_username:  ninyam
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-cayman
+repository: ninyam/paginapersonal
 plugins:
   - jekyll-feed
 
