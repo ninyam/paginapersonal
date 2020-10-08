@@ -24,7 +24,7 @@ email: ninyam [arroba] math [punto] ubc [punto] ca
 description: >- # this means to ignore newlines until "baseurl:"
   Descripción
 baseurl: "/paginapersonal" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ninyam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ninyam
 linkedin_username: ninyam
 
