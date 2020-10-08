@@ -1,7 +1,14 @@
 <section class="page-header">
   <h1 class="project-name">{{ site.title }}</h1>
   <h2 class="project-tagline">{{ site.tagline }}</h2>
-  <a href="#" class="btn">View on GitHub</a>
-  <a href="#" class="btn">Download .zip</a>
-  <a href="#" class="btn">Download .tar.gz</a>
+  <nav>
+    <a href="http://localhost:4000/paginapersonal/" class="btn" {% if page.url == "/" %}style="color: white;"{% endif %}>Página Principal</a>
+    <a href="http://localhost:4000/paginapersonal/investigacion/" class="btn" {% if page.url == "/investigacion/" %}style="color: white;"{% endif %}>Investigación</a>
+    <a href="http://localhost:4000/paginapersonal/docencia/" class="btn" {% if page.url == "/docencia/" %}style="color: white;"{% endif %}>Docencia</a>
+    <a href="http://localhost:4000/paginapersonal/miscelania/" class="btn" {% if page.url == "/miscelania/" %}style="color: white;"{% endif %}>Miscelánia</a>
+    <!--<a href="http://localhost:4000/paginapersonal/investigacion/" {% if page.url == "/" %}style="color: red;"{% endif %}>Investigación</a>
+    <a href="/investigacion.html" {% if page.url == "/investigacion.html" %}style="color: red;"{% endif %}>Investigación</a>-->
+  </nav>
+  <!--<a href="#" class="btn">Download .zip</a>-->
+  <!--<a href="#" class="btn">Download .tar.gz</a>-->
 </section>
