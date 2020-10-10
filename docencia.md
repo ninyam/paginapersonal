@@ -6,4 +6,4 @@ permalink: /docencia/
 
 # Docencia
 
-This page tells you a little bit about my teaching.
+Este semestre soy la coordinadora de los monitores de MATH 100 - Cálculo Diferencial con Aplicaciones a Física e Ingeniería.
