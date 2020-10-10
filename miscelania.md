@@ -6,4 +6,5 @@ permalink: /miscelania/
 
 # Miscelánia
 
-This page tells you a little bit about different topics.
+## Topología Algebraica en UBC
+El Seminario de Topología - UBC es los miércoles de 2:00 pm a 3:00 pm en Zoom.
