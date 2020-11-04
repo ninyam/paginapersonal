@@ -13,7 +13,7 @@ Mi área de investigación se encuentra en la rama de la topología algebraica y
 * Proyecto de [Mujeres en Topología III](https://awmadvance.org/research-networks/wit/) con Candace Bethea, Morgan Opie, Kirsten Wickelgren e Inna Zakharevich. [Compactly supported A1-Euler characteristic and the Hochschild complex](https://arxiv.org/abs/2003.09457). _arXiv_. 19 de marzo de 2020.
 
 ## Charlas
-* Diciembre 2020 - _Invitada_ - **TBA** (en inglés). Sesión de teoría de homotopía de la [Reunión de Invierno de la CMS 2020](https://www2.cms.math.ca/Events/winter20/sessions_scientific#ht).
+* Diciembre 2020 - _Invitada_ - **título** (en inglés). Sesión de teoría de homotopía de la [Reunión de Invierno de la CMS 2020](https://www2.cms.math.ca/Events/winter20/sessions_scientific#ht).
 
 * Octubre 2020 - _Invitada_ - **Descomposición de álgebras topológicas de Azumaya** (en inglés). Charla dada en el [Seminario Virtual de Topología de la Universidad de Illinois en Urbana-Champaign](https://faculty.math.illinois.edu/~vesna/IllinoisTopology/index.html).
 
