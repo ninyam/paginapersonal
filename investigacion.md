@@ -13,13 +13,15 @@ Mi área de investigación se encuentra en la rama de la topología algebraica y
 * Proyecto de [Mujeres en Topología III](https://awmadvance.org/research-networks/wit/) con Candace Bethea, Morgan Opie, Kirsten Wickelgren e Inna Zakharevich. [Compactly supported A1-Euler characteristic and the Hochschild complex](https://arxiv.org/abs/2003.09457). _arXiv_. 19 de marzo de 2020.
 
 ## Charlas
-* Mayo 2020 - _Invitada_ - **Descomposición de las álgebras de Azumaya** (en inglés). Charla dada en la conferencia virtual [Topología, de Costa a Costa](http://www.math.ubc.ca/~liam/Virtual/) organizada por Tye Lidman y Liam Watson.
+* Diciembre 2020 - _Invitada_ - **TBA** (en inglés). Sesión de teoría de homotopía de la [Reunión de Invierno de la CMS 2020](https://www2.cms.math.ca/Events/winter20/sessions_scientific#ht).
 
-* Marzo 2020 - _Invitada_ - **Descomposición de las álgebras topológicas de Azumaya** (en inglés). Esta charla será dada en la [Sesión Especial de la AMS en Aspectos Motívicos de Topología y Geometría](http://www.ams.org/meetings/sectional/2273_program_ss16.html). CANCELADA
+* Octubre 2020 - _Invitada_ - **Descomposición de álgebras topológicas de Azumaya** (en inglés). Charla dada en el [Seminario Virtual de Topología de la Universidad de Illinois en Urbana-Champaign](https://faculty.math.illinois.edu/~vesna/IllinoisTopology/index.html).
 
-* Diciembre 2019 - _Invitada_ - **Descomposición de las álgebras topológicas de Azumaya** (en inglés). Charla dada en la [Reunión de Invierno de la CMS 2019](https://www2.cms.math.ca/Events/winter19/sessions_scientific#top).
+* Mayo 2020 - _Invitada_ - **Descomposición de álgebras de Azumaya** (en inglés). Charla dada en la conferencia virtual [Topología, de Costa a Costa](http://www.math.ubc.ca/~liam/Virtual/) organizada por Tye Lidman y Liam Watson.
 
-* Marzo 2019 - **Cohomología entera de BPUn y el estudio de las álgebras topológicas de Azumaya** (en inglés). Charla dada en el taller [Mujeres en Teoría de Homotopía y Geometría Algebraica II](http://www.ub.edu/topologia/jcirici/WHTAG2/index.html).
+* Diciembre 2019 - _Invitada_ - **Descomposición de álgebras topológicas de Azumaya** (en inglés). Charla dada en la sesión de topología de la [Reunión de Invierno de la CMS 2019](https://www2.cms.math.ca/Events/winter19/sessions_scientific#top).
+
+* Marzo 2019 - **Cohomología entera de BPUn y el estudio de álgebras topológicas de Azumaya** (en inglés). Charla dada en el taller [Mujeres en Teoría de Homotopía y Geometría Algebraica II](http://www.ub.edu/topologia/jcirici/WHTAG2/index.html).
 
 ## Talleres
 * Agosto 2020 - _Participante Invitada_ - **Cohomology of Finite Groups: Interactions and Applications** - Instituto de Investigación para las Matemáticas Oberwolfach (MFO), Oberwolfach, Alemania.
