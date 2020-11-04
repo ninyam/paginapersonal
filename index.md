@@ -13,4 +13,4 @@ Completé mis estudios de pregrado y maestría en la Universidad Nacional de Col
 sedes Manizales y Medellín, respectivamente. Durante mi maestría trabajé en
 cohomología de grupos bajo la dirección de [José Manuel Gómez Guerra](https://sites.google.com/a/unal.edu.co/jmgomez0/home?authuser=0).
 
-[get the PDF]({{ site.url }}/paginapersonal/_assets/njarcilama.pdf)
+[get the PDF]({{ site.url }}/paginapersonal/njarcilama.pdf)
