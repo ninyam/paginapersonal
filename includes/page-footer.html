@@ -1,0 +1,64 @@
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  /*height: 300px; /* Should be removed. Only for demonstration */
+}
+.left {
+  width: 65%;
+}
+.right {
+  width: 45%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.center {
+  text-align: center;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<footer class="site-footer">
+<div class="row">
+  <div class="column">
+    <h3>Contacto</h3>
+    <p>
+      <i class="fa fa-location-arrow"></i> <a href="http://www.maps.ubc.ca/PROD/index_detail.php?locat1=518">Room 121, 1984 Mathematics Road, Vancouver BC, Canada V6T 1Z2</a></p>
+    <p>
+      <i class="fa fa-envelope-o"></i> ninyam [@] math [.] ubc [.] ca</p>
+  </div>
+</div>
+<!-- Copyright -->
+<div class="center">
+  <span class="site-footer-owner">
+    Este sitio es matenido por <a href="https://github.com/ninyam">ninyam</a> <i class="fa fa-github-alt"></i>
+  </span>
+  <span class="site-footer-credits">
+    Esta página fue generada por <a href="https://pages.github.com">GitHub Pages</a>. Basada en el tema <a href="https://github.com/jasonlong/cayman-theme">Cayman</a> de <a href="https://twitter.com/jasonlong">JasonLong</a>.
+  </span>
+  <p>
+  <a href="http://www.math.ubc.ca/~ninyam/" class="bu">English</a>
+  </p>
+</div>
+<!-- Copyright -->
+</footer>
