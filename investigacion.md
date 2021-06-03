@@ -26,7 +26,9 @@ Mi área de investigación se encuentra en la rama de la topología algebraica y
 * Marzo 2019 - **Cohomología entera de BPUn y el estudio de álgebras topológicas de Azumaya** (en inglés). Charla dada en el taller [Mujeres en Teoría de Homotopía y Geometría Algebraica II](http://www.ub.edu/topologia/jcirici/WHTAG2/index.html).
 
 ## Talleres
-* Agosto 2020 - _Participante Invitada_ - **Cohomology of Finite Groups: Interactions and Applications** - Instituto de Investigación para las Matemáticas Oberwolfach (MFO), Oberwolfach, Alemania.
+* Julio 2021 - _Participante_ - [Homotopía Motívica: Teoría y Aplicaciones](https://www.ias.edu/pcmi/2021-graduate-summer-school-course-descriptions) - IAS Park City Mathematics Institute, 
+
+* Agosto 2020 - _Participante Invitada_ - **Cohomología de Grupos Finitos: Interacciones y Aplicaciones** - Instituto de Investigación para las Matemáticas Oberwolfach (MFO), Oberwolfach, Alemania.
 
 * Agosto 2019 - _Participante_ - [Mujeres en Topología III](https://www.him.uni-bonn.de/events/scientific-events/single-scientific-events/women-in-topology-2019/description/) - Instituto de Investigación para las Matemáticas Hausdorff (HIM), Bonn, Alemania.
 
