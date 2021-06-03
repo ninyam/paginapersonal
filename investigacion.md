@@ -9,11 +9,11 @@ permalink: /investigacion/
 Mi área de investigación se encuentra en la rama de la topología algebraica y la teoría de homotopía. Específicamente, me encuentro interesada en entender álgebras topológicas de Azumaya.
 
 ## Preprints
-* [Decomposition of topological Azumaya algebras](https://arxiv.org/abs/2005.13081). _arXiv_. 26 de mayo de 2020.
-* Proyecto de [Mujeres en Topología III](https://awmadvance.org/research-networks/wit/) con Candace Bethea, Morgan Opie, Kirsten Wickelgren e Inna Zakharevich. [Compactly supported A1-Euler characteristic and the Hochschild complex](https://arxiv.org/abs/2003.09457). _arXiv_. 19 de marzo de 2020.
+* [Decomposition of topological Azumaya algebras](https://arxiv.org/abs/2005.13081). _arXiv_, 26 de mayo de 2020. Aceptado para publicación en el Canadian Bulletin of Mathematics, 2021.
+* Proyecto de [Mujeres en Topología III](https://awmadvance.org/research-networks/wit/) con Candace Bethea, Morgan Opie, Kirsten Wickelgren e Inna Zakharevich. [Compactly supported A1-Euler characteristic and the Hochschild complex](https://arxiv.org/abs/2003.09457). _arXiv_, 19 de marzo de 2020. Aceptado para publicación en el Proceedings of Women in Topology III, 2021.
 
 ## Charlas
-* Junio 2021 - _Invitada_ - Ponencia a presentar en el [I Encuentro de Egresados del Programa de Matemáticas de la Universidad Nacional de Colombia, Sede Manizales](http://www.fcen.unal.edu.co/menu/departamentos/departamento-de-matematica-y-estadistica/).
+* Junio 2021 - _Invitada_ - **Entendiendo álgebras topológicas de Azumaya con involución**. Ponencia presentada en el [I Encuentro de Estudiantes y Egresados de Matemáticas, Universidad Nacional de Colombia, Sede Manizales](https://sites.google.com/view/egresadosunalman2021/).
 
 * Diciembre 2020 - _Invitada_ - **Descomposición de álgebras topológicas de Azumaya con involución** (en inglés). Charla dada en la sesión de teoría de homotopía de la [Reunión de Invierno de la CMS 2020](https://www2.cms.math.ca/Events/winter20/sessions_scientific#ht).
 
